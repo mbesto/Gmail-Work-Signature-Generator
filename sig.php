@@ -12,7 +12,7 @@
 </p>
 <p><img src="http://xoomworks.com/email_sig/bar.jpg" />
 </p>
-    <p><img src="http://xoomworks.com/email_sig/xoomworks_logo.gif" />
+    <p><a href="http://www.xoomworks.com"><img src="http://xoomworks.com/email_sig/xoomworks_logo.gif" /></a>
 </p>
 
 <p><b style="color:#57B6F0"><br />Xoomworks Consulting and Outsourcing</b><br />
@@ -20,7 +20,7 @@
     <b>Tel</b> +44 (0) 20 7400 6120 <b>Web </b><a style="color:#858585" href="http://www.xoomworks.com">www.xoomworks.com</a></span></p>
 
 <p>
-    <a href="http://twitter.com/xoomworks"><img src="http://xoomworks.com/email_sig/follow_xoomworks.gif" /></a>
+    <img src="http://xoomworks.com/email_sig/follow_xoomworks.gif" />
     <a href="http://www.xoomworks.com"><img src="http://xoomworks.com/email_sig/linkedin.gif" /></a>
     <a href="http://www.linkedin.com/company/xoomworks"><img src="http://xoomworks.com/email_sig/twitter.gif" /></a>
 </p>
