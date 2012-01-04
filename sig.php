@@ -21,8 +21,8 @@
 
 <p>
     <img src="http://xoomworks.com/email_sig/follow_xoomworks.gif" />
-    <a href="http://www.xoomworks.com"><img src="http://xoomworks.com/email_sig/linkedin.gif" /></a>
-    <a href="http://www.linkedin.com/company/xoomworks"><img src="http://xoomworks.com/email_sig/twitter.gif" /></a>
+    <a href="http://www.linkedin.com/company/xoomworks"><img src="http://xoomworks.com/email_sig/linkedin.gif" /></a>
+    <a href="http://www.twitter.com/xoomworks"><img src="http://xoomworks.com/email_sig/twitter.gif" /></a>
 </p>
 
     <br />
